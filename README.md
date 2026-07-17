@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramisetti Praneeth</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | 🛠️ Developer | 🕵️ CTF Player | Lifelong Learner</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | Certified Ethical Hacker (V13) | 🛠️ Developer | 🕵️ CTF Player | Lifelong Learner</h3>
 
 ---
 
@@ -115,6 +115,7 @@ Users can securely upload, store, and retrieve files online.
 
 ## 🎓 Certifications
 
+-    Certified Ethical Hacker (CEH V13)
 - 🛡️ Certified in CyberSecurity (ISC2)
 - ☁️ NPTEL Cloud Computing & IoT
 - 🧠 Google Cybersecurity Certificate (Coursera)
